@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 - 🌱 Always learning web development and system design
-- 🚀 Team Lead at [bhuma.dev](https://kleeen.software/)
+- 🚀 Senior Software Engineer at [Junglytics](https://www.junglytics.com/)
 - 🙉 Hobbies include, swimmer 🏖️🏊, running 👟, and reading 📚
 - 😄 Pronouns: He/his
 
